@@ -14,6 +14,7 @@ Add your timetable
 Execute the program
 
 # CODE
+```
 <!DOCTYPE html>
 <head>
 <title>SEC SLOT TIMETABLE</title>
@@ -100,5 +101,6 @@ Execute the program
 </tr>
 </body>
 </html>
+```
 # OUPUT
 ![timetable](https://github.com/SUBASHVIRAT18/timetable/assets/147473303/035cfe29-cdc0-4aea-bf0a-bf5db7b8833b)
